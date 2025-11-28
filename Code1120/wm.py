@@ -120,7 +120,7 @@ class Person:
         return f"人(姓名={self.name})"
         
 if __name__ =="__main__":
-    person = Person(name = "杨迪喻")
+    person = Person(name = "Avenir")
     print (person)
 
     clothes1 = Clothes("棉质",False)
